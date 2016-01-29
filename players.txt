@@ -1,0 +1,144 @@
+Nick {
+Nick
+Password: password
+100
+100
+0
+0
+0
+[]
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Tony {
+Tony
+Password: 12345
+100
+100
+0
+0
+0
+[]
+None
+None
+None
+None
+None
+None
+None
+None
+}
+tony {
+tony
+Password: 12345
+100
+70
+0
+0
+4
+[]
+None
+None
+None
+None
+None
+None
+None
+None
+}
+extra {
+extra
+Password: 12345
+100
+100
+0
+0
+0
+[]
+None
+None
+None
+None
+None
+None
+None
+None
+}
+lol {
+lol
+Password: 12345
+100
+100
+0
+0
+0
+[]
+None
+None
+None
+None
+None
+None
+None
+None
+}
+bob {
+bob
+Password: blue
+100
+100
+0
+0
+0
+[]
+None
+None
+None
+None
+None
+None
+None
+None
+}
+echh {
+echh
+Password: 12345
+100
+100
+0
+0
+0
+[]
+None
+None
+None
+None
+None
+None
+None
+None
+}
+nick {
+nick
+Password: 12345
+100
+100
+0
+0
+0
+[]
+None
+None
+None
+None
+None
+None
+None
+None
+}

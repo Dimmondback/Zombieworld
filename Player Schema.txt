@@ -1,0 +1,18 @@
+Username {
+String name;
+String Password: password;
+int hp,
+stamina,
+defense,
+height;
+int location;
+ArrayList<Item> inventory;
+Item.Armor head;
+Item.Armor chest;
+Item.Armor legs;
+Item.Armor hands;
+Item.Armor shoulders;
+Item.Armor shoes;
+Item.Armor arms;
+Item.Armor back;
+}

@@ -1,0 +1,16 @@
+SCHEMA AS SHOWN BELOW
+Readd these after preliminary tests.
+Items:LIST
+Players:LIST
+Enemies:LIST
+Npcs:LIST
+
+
+Room X {
+North:Room_Name
+East:Room_Name
+South:Room_Name
+West:Room_Name
+Up:Room_Name
+Down:Room_Name
+}
